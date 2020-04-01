@@ -76,8 +76,8 @@ perspective-viewer,
   --top_panel--padding: 0px 0px 24px 0px;
   --hypergrid-scrollbar--width: 8px;
   --hypergrid-scrollbar--border-radius: 5px;
-  --hypergrid--font-size: 16px;
-  --hypergrid-header--font-size: 16px;
+  --hypergrid--font-size: 15px;
+  --hypergrid-header--font-size: 15px;
   --hypergrid--font-family: "Inconsolata";
   --hypergrid-header--font-family: "Inconsolata";
   --hypergrid-selection--background: rgba(0, 0, 0, 0.1);
