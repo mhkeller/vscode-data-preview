@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Material+Icons);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+
 /******************************************************************************
  *
  * Copyright (c) 2017, the Perspective Authors.
@@ -20,7 +21,7 @@
 perspective-viewer,
 .perspective-viewer-material-dark {
   font-family: "Open Sans";
-  --interface-monospace--font-family: "Roboto Mono";
+  --interface-monospace--font-family: "Inconsolata";
   --inactive-column-selector--content: "\E835";
   --active-column-selector--content: "\E834";
   --column--background: none;
@@ -75,10 +76,10 @@ perspective-viewer,
   --top_panel--padding: 0px 0px 24px 0px;
   --hypergrid-scrollbar--width: 8px;
   --hypergrid-scrollbar--border-radius: 5px;
-  --hypergrid--font-size: 12px;
-  --hypergrid-header--font-size: 12px;
-  --hypergrid--font-family: "Open Sans";
-  --hypergrid-header--font-family: "Open Sans";
+  --hypergrid--font-size: 16px;
+  --hypergrid-header--font-size: 16px;
+  --hypergrid--font-family: "Inconsolata";
+  --hypergrid-header--font-family: "Inconsolata";
   --hypergrid-selection--background: rgba(0, 0, 0, 0.1);
   --d3fc-treedata-axis--lines: none;
   background-color: #2a2c2f;
